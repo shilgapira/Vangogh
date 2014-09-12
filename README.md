@@ -3,8 +3,8 @@
 Vangogh is an iOS library for testing how well an application works for people with 
 various kinds of color vision deficiencies.
 
-It lets you interact with your app as you normally do while applying one of several color
-transforms to your user interface in realtime.
+It lets you interact with your app as you normally would while applying one of several color
+transformations to the user interface in realtime.
 
 Tested on Xcode 5 and iOS 7
 
@@ -21,7 +21,7 @@ The repo comes with a simple demo that opens Flickr in a webview:
 ## Usage
 
 1. Clone the repo with `git clone https://github.com/shilgapira/Vangogh.git`
-2. Copy and add `VGWindow.h` and `VGWindow.m` to your project
+2. Copy and add `Vangogh.h` and `Vangogh.m` to your project
 3. Replace your app's `UIWindow`-based key window with an instance of `VGWindow`
 4. Add an import for the `Accelerate.framework` if needed
 5. Run your app and shake the device (`Cmd-Ctrl-Z` on the Simulator) to activate filtering
