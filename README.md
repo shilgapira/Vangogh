@@ -13,9 +13,7 @@ Tested on Xcode 5 and iOS 7
 
 The repo comes with a simple demo that opens Flickr in a webview:
 
-[![An example video of the demo in this repo](http://giant.gfycat.com/HelpfulAchingCoati.gif)](http://gfycat.com/HelpfulAchingCoati)
-
-([gfycat](http://gfycat.com/HelpfulAchingCoati) for slow connections)
+https://user-images.githubusercontent.com/694968/225000143-83931ebd-b712-4644-a819-39d3fb13cf3d.mp4
 
 
 ## Usage
